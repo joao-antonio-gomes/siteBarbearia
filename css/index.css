@@ -1,0 +1,36 @@
+#banner {
+  width: 100%;
+}
+
+section {
+  padding: 20px;
+  text-align: center;
+  background-color: #cacaca;
+}
+
+#missao {
+  font-size: 20px;
+}
+
+#missao strong {
+  color: red;
+}
+
+h3 {
+  text-align: center;
+}
+
+ul {
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  margin-right: 15%;
+}
+
+ul li {
+  font-style: italic;
+}
+
+#imagem-beneficios {
+  width: 50%;
+}
